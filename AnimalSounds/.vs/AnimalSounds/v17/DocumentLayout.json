@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Master\\Semestrul2\\Modulul1\\Medii_si_platforme_de_dezvoltare_avansate\\AnimalSounds\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A590A499-B7B8-4273-84AD-3E035B8CF463}|AnimalSounds.csproj|d:\\master\\semestrul2\\modulul1\\medii_si_platforme_de_dezvoltare_avansate\\animalsounds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A590A499-B7B8-4273-84AD-3E035B8CF463}|AnimalSounds.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Master\\Semestrul2\\Modulul1\\Medii_si_platforme_de_dezvoltare_avansate\\AnimalSounds\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Master\\Semestrul2\\Modulul1\\Medii_si_platforme_de_dezvoltare_avansate\\AnimalSounds\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T21:11:01.281Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
