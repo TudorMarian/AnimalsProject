@@ -1,0 +1,10 @@
+D:\Master\Semestrul2\Modulul1\Medii_si_platforme_de_dezvoltare_avansate\LibraryManager\bin\Debug\LibraryManager.exe.config
+D:\Master\Semestrul2\Modulul1\Medii_si_platforme_de_dezvoltare_avansate\LibraryManager\bin\Debug\LibraryManager.exe
+D:\Master\Semestrul2\Modulul1\Medii_si_platforme_de_dezvoltare_avansate\LibraryManager\bin\Debug\LibraryManager.pdb
+D:\Master\Semestrul2\Modulul1\Medii_si_platforme_de_dezvoltare_avansate\LibraryManager\obj\Debug\LibraryManager.csproj.AssemblyReference.cache
+D:\Master\Semestrul2\Modulul1\Medii_si_platforme_de_dezvoltare_avansate\LibraryManager\obj\Debug\LibraryManager.Form1.resources
+D:\Master\Semestrul2\Modulul1\Medii_si_platforme_de_dezvoltare_avansate\LibraryManager\obj\Debug\LibraryManager.Properties.Resources.resources
+D:\Master\Semestrul2\Modulul1\Medii_si_platforme_de_dezvoltare_avansate\LibraryManager\obj\Debug\LibraryManager.csproj.GenerateResource.cache
+D:\Master\Semestrul2\Modulul1\Medii_si_platforme_de_dezvoltare_avansate\LibraryManager\obj\Debug\LibraryManager.csproj.CoreCompileInputs.cache
+D:\Master\Semestrul2\Modulul1\Medii_si_platforme_de_dezvoltare_avansate\LibraryManager\obj\Debug\LibraryManager.exe
+D:\Master\Semestrul2\Modulul1\Medii_si_platforme_de_dezvoltare_avansate\LibraryManager\obj\Debug\LibraryManager.pdb
