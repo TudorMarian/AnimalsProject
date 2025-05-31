@@ -1,0 +1,14 @@
+D:\Master\Semestrul2\Modulul1\Medii_si_platforme_de_dezvoltare_avansate\AnimalSounds\bin\Debug\AnimalSounds.exe.config
+D:\Master\Semestrul2\Modulul1\Medii_si_platforme_de_dezvoltare_avansate\AnimalSounds\bin\Debug\AnimalSounds.exe
+D:\Master\Semestrul2\Modulul1\Medii_si_platforme_de_dezvoltare_avansate\AnimalSounds\bin\Debug\AnimalSounds.pdb
+D:\Master\Semestrul2\Modulul1\Medii_si_platforme_de_dezvoltare_avansate\AnimalSounds\obj\Debug\AnimalSounds.csproj.AssemblyReference.cache
+D:\Master\Semestrul2\Modulul1\Medii_si_platforme_de_dezvoltare_avansate\AnimalSounds\obj\Debug\AnimalSounds.csproj.CoreCompileInputs.cache
+D:\Master\Semestrul2\Modulul1\Medii_si_platforme_de_dezvoltare_avansate\AnimalSounds\obj\Debug\AnimalSounds.exe
+D:\Master\Semestrul2\Modulul1\Medii_si_platforme_de_dezvoltare_avansate\AnimalSounds\obj\Debug\AnimalSounds.pdb
+D:\New folder\AnimalsProject-main\AnimalSounds\bin\Debug\AnimalSounds.exe.config
+D:\New folder\AnimalsProject-main\AnimalSounds\bin\Debug\AnimalSounds.exe
+D:\New folder\AnimalsProject-main\AnimalSounds\bin\Debug\AnimalSounds.pdb
+D:\New folder\AnimalsProject-main\AnimalSounds\obj\Debug\AnimalSounds.csproj.AssemblyReference.cache
+D:\New folder\AnimalsProject-main\AnimalSounds\obj\Debug\AnimalSounds.csproj.CoreCompileInputs.cache
+D:\New folder\AnimalsProject-main\AnimalSounds\obj\Debug\AnimalSounds.exe
+D:\New folder\AnimalsProject-main\AnimalSounds\obj\Debug\AnimalSounds.pdb
